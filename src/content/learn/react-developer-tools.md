@@ -42,7 +42,7 @@ Daha sonra, terminalden React Developer Tools'u açın:
 react-devtools
 ```
 
-Daha sonra, `<script>` etiketini web sitenizin `<head>` etiketinin başlangıcına etkleyerek bağlanın :
+Daha sonra, `<script>` etiketini web sitenizin `<head>` etiketinin başlangıcına ekleyerek bağlanın :
 ```html {3}
 <html>
   <head>
